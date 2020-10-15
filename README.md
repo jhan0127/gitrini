@@ -6,6 +6,11 @@
 
 This is messy. Who would use this VCS?
 
-References for my own collection \n
-https://fifo22.tistory.com/32 \n
+References for my own collection 
+
+\n
+https://fifo22.tistory.com/32 
+
+\n
+
 https://cfss.uchicago.edu/setup/
