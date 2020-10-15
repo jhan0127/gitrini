@@ -26,4 +26,4 @@ http://www-cs-students.stanford.edu/~blynn/gitmagic/
 
 
 
-https://stackoverflow.com/questions/26757353/re-fork-a-repository-on-github/[reforking commands]
+- link:https://stackoverflow.com/questions/26757353/re-fork-a-repository-on-github/[reforking commands]
