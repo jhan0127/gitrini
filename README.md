@@ -23,3 +23,7 @@ https://velog.io/@conatuseus/.gitignore-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-imk
 \n
 
 http://www-cs-students.stanford.edu/~blynn/gitmagic/
+
+\n
+
+https://stackoverflow.com/questions/26757353/re-fork-a-repository-on-github/[reforking commands]
