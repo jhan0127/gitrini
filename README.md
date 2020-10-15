@@ -5,3 +5,6 @@
 #Now that I got it to work, I hope this tutorial can be improved on a daily basis.
 
 This is messy. Who would use this VCS?
+
+References for my own collection
+https://fifo22.tistory.com/32
