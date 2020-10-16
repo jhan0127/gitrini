@@ -6,8 +6,22 @@
 
 This is messy. Who would use this VCS?
 
-References for my own collection 
+Contents
+I. Gitmagic contents (will be modified)
 
+II. Using Git with R Studio
+
+preface. why use Git and why with R Studio?
+a. preparing your computer for using Git with R Studio
+b. you have a project that you want to upload
+c. hosting your own Git server (why not github?)
+
+
+
+
+
+
+References for my own collection 
 
 Some of the commands that are useful for setting a git for a new project:
 
@@ -31,4 +45,4 @@ http://www-cs-students.stanford.edu/~blynn/gitmagic/
 
 How to update the existing Git without deleting the folder and "re"forking:
 
-- link:https://stackoverflow.com/questions/26757353/re-fork-a-repository-on-github/[reforking commands]
+https://stackoverflow.com/questions/26757353/re-fork-a-repository-on-github/
